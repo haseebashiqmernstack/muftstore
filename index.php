@@ -85,7 +85,7 @@
         </div>
     </div>
 <!-- end first image -->
-    <div class="carousel-item carousel-image-2">
+    <!-- <div class="carousel-item carousel-image-2">
         <div class="container">
            <div class="carousel-caption d-none d-sm-block mb-5">
                <h1 class="display-3 title-color">Title Two</h1>
@@ -96,9 +96,9 @@
            </a>
                 </div>
         </div>
-    </div>
+    </div> -->
 <!-- end two image -->
-<div class="carousel-item carousel-image-3">
+<!-- <div class="carousel-item carousel-image-3">
     <div class="container">
        <div class="carousel-caption d-none d-sm-block mb-5">
            <h1 class="display-3 title-color">Title Three</h1>
@@ -109,7 +109,7 @@
        </a>
             </div>
     </div>
-</div>
+</div> -->
 <!-- end three image -->
 <a class="carousel-control-prev" href="#Carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
