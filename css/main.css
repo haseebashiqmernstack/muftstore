@@ -28,6 +28,7 @@ nav{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
     url("../images/cv-demo.PNG");
     background-size: cover;
+    /* background-position: center; */
 }
 .carousel-image-2{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
@@ -38,6 +39,35 @@ nav{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
     url("../images/watch-image-2.jpg");
     background-size: cover;
+}
+@media (max-width:450px)
+{
+    .carousel-image-1{
+        background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
+    url("../images/cv-demo.PNG");
+    background-size: cover;
+    background-position: center;
+    }
+}
+
+@media (max-width:768px)
+{
+    .carousel-image-1{
+        background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
+    url("../images/cv-demo.PNG");
+    background-size: cover;
+    background-position: center;
+    }
+}
+
+@media (max-width:250px)
+{
+    .carousel-image-1{
+        background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
+    url("../images/cv-demo.PNG");
+    background-size: cover;
+    background-position: center;
+    }
 }
 .title-color{
     color:white;
