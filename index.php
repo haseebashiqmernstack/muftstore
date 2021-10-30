@@ -75,9 +75,9 @@
     <div class="carousel-item carousel-image-1 active">
         <div class="container">
             <div class="carousel-caption d-none d-sm-block text-right mb-5">
-               <h1 class="display-3 title-color">Title One</h1>
-               <p class="lead">Lorem ipsum, dolor sit
-                    amet consectetur adipisicing elit. Nemo, distinctio.</p>
+               <h1 class="display-3 title-color"></h1>
+               <p class="lead">
+                    </p>
             <a href="#" class="btn btn-color slide-btn btn-lg">
                 Sign Up Now
             </a>
